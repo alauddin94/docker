@@ -69,16 +69,16 @@ CMD ["node", "app.js"]
 
    - #### 📌Tag | Login | Push the Docker Image
 
-`docker tag my-node-app saifulislam88/my-node-app:latest`
+`docker tag my-node-app csealauddin/my-node-app:latest`
   
 `docker login`
 
-`docker push saifulislam88/my-node-app:latest`
+`docker push csealauddin/my-node-app:latest`
 
    - #### 📌Pull and Run - Download the image from Docker Hub
 
-`docker pull saifulislam88/my-node-app:latest`
+`docker pull csealauddin/my-node-app:latest`
 
-`docker run -it -d -p 3001:3000 saifulislam88/my-node-app:latest`
+`docker run -it -d -p 3001:3000 csealauddin/my-node-app:latest`
 
 `docker ps -a`
