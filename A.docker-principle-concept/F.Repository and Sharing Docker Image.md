@@ -11,16 +11,16 @@ https://github.com/pravinmishraaws/Docker-Demo/blob/main/04_Sharing_Docker_Image
 `docker tag my-node-app csealauddin/my-node-app:latest`
   
 `docker login`\
-`docker login -u csealauddin`\
+`docker login -u alauddin94`\
 `docker info | grep Username`\
 `docker logout`
 
-`docker push csealauddin/my-node-app:latest`
+`docker push alauddin94/my-node-app:latest`
 
    - #### 📌Pull and Run - Download the image from Docker Hub - Multi-Stage 
 
-`docker pull csealauddin/my-node-app:latest`
+`docker pull alauddin94/my-node-app:latest`
 
-`docker run -it -d -p 3001:3000 csealauddin/my-node-app:latest`
+`docker run -it -d -p 3001:3000 alauddin94/my-node-app:latest`
 
 `docker ps -a`
