@@ -1,14 +1,14 @@
 ##### 📌 The instructions/Command list in Dockerfile
 
-- [FROM](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#-from)
-- [WORKDIR](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#workdir)
-- [USER](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#user)
-- [MAINTAINER](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#maintainer)
-- [LABEL](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#label)
-- [COPY and ADD](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#copy-and-add)
-- [RUN | CMD | ENTRYPOINT](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#run--cmd--entrypoint)
-- [EXPOSE](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#expose)
-- [VOLUME](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#volume)
+- [FROM](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#-from)
+- [WORKDIR](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#workdir)
+- [USER](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#user)
+- [MAINTAINER](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#maintainer)
+- [LABEL](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#label)
+- [COPY and ADD](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#copy-and-add)
+- [RUN | CMD | ENTRYPOINT](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#run--cmd--entrypoint)
+- [EXPOSE](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#expose)
+- [VOLUME](https://github.com/alauddin94/docker/blob/main/A.docker-principle-concept/G.Dockerfile-Instructions-Commands.md#volume)
 
  ###### ✅ **FROM**
  **Instruction creates the base image layer from base a image**.In every valid Dockerfile, FROM is the first instruction.
